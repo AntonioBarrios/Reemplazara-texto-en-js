@@ -1,0 +1,5 @@
+<script>
+$(document).ready(function(){
+	$(".clase").text('texto-a-cambiar');
+});
+</script>
